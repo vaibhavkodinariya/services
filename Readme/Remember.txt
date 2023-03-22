@@ -1,0 +1,10 @@
+Services
+
+1) Public files
+   -  common work to fetch client response url and requested methods this all will be pass in controllers object
+   -  url from get method will be featched 
+2) Controller 
+    -  flow of all urls and requested methods oprations will be decided by this
+    -  oprators object is passed in this and by which oprators functions can accesible
+3) Operator
+    -  all query of crud oprations is in it (PDO used only)
